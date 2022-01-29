@@ -1,0 +1,23 @@
+{
+  "name": "c01-timetable-backend",
+  "version": "1.0.0",
+  "description": "backend for time table project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carbon-HUST/C01-TimeTable-Backend.git"
+  },
+  "author": "Carbon HUST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carbon-HUST/C01-TimeTable-Backend/issues"
+  },
+  "homepage": "https://github.com/Carbon-HUST/C01-TimeTable-Backend#readme",
+  "dependencies": {
+    "xlsx": "^0.17.5"
+  }
+}
